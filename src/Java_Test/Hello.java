@@ -7,8 +7,8 @@ public class Hello {
         System.out.println("Hello dajia1");
         System.out.println("Hello dajia2");
         System.out.println("Hello dajia3");
-        System.out.println("Hello dajia4");
-        System.out.println("Hello dajia5");
+        System.out.println("Hello 1114");
+        System.out.println("Hello 中国");
     }
 }
 
